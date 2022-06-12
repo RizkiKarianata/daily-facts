@@ -1,10 +1,10 @@
 {
-  "cwd": "C:\\Users\\pavilion\\Documents\\ProjectSourceTree\\Perpustakaan Ar-Rasyid",
+  "cwd": "C:\\xampp\\htdocs\\framework7\\daily-facts",
   "type": [
     "web",
     "cordova"
   ],
-  "name": "Perpustakaan Ar-Rasyid",
+  "name": "Daily Facts",
   "framework": "core",
   "template": "tabs",
   "bundler": "webpack",
