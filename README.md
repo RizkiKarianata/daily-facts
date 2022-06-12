@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Daily Facts! 👋 </h1>
 
-<!-- ![Daily Facts](https://user-images.githubusercontent.com/52366240/172058843-a48241b3-d704-413b-a739-cd3699ef3276.png) -->
+![Daily Facts](https://user-images.githubusercontent.com/52366240/173214218-06866eea-eb75-4740-8470-040d9e819a56.png)
 
 <p align="center">Daily Facts is a simple application that carries the Neumorphism Design theme. Daily Facts is used to translate languages from different countries. Built using Framework7. 💖 </p>
 
