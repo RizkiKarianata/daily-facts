@@ -2,7 +2,7 @@
 
 ![Daily Facts](https://user-images.githubusercontent.com/52366240/173214218-06866eea-eb75-4740-8470-040d9e819a56.png)
 
-<p align="center">Daily Facts is a simple application that carries the Neumorphism Design theme. Daily Facts is used to translate languages from different countries. Built using Framework7. 💖 </p>
+<p align="center">Daily Facts is a simple application that is used to find out interesting facts today. Built using Framework7. 💖 </p>
 
 <p align="center">
 <img src="https://img.shields.io/github/contributors/RizkiKarianata/daily-facts?style=flat-square">
