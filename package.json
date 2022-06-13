@@ -27,7 +27,7 @@
     "Samsung >= 5"
   ],
   "dependencies": {
-    "dom7": "^2.1.5",
+    "dom7": "^4.0.4",
     "framework7": "^5.7.10",
     "framework7-icons": "^3.0.1",
     "template7": "^1.4.2"
@@ -48,13 +48,18 @@
     "framework7-component-loader": "^2.1.2",
     "html-webpack-plugin": "^4.3.0",
     "mini-css-extract-plugin": "^0.9.0",
-    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "optimize-css-assets-webpack-plugin": "^6.0.1",
     "ora": "^4.0.5",
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.7.0",
     "rimraf": "^3.0.2",
+<<<<<<< HEAD
     "style-loader": "^1.2.1",
     "stylus": "^0.58.1",
+=======
+    "style-loader": "^2.0.0",
+    "stylus": "^0.54.8",
+>>>>>>> main
     "stylus-loader": "^3.0.2",
     "terser-webpack-plugin": "^3.0.7",
     "url-loader": "^4.1.0",
