@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Daily Facts! 👋 </h1>
 
 ![Daily Facts](https://user-images.githubusercontent.com/52366240/173214218-06866eea-eb75-4740-8470-040d9e819a56.png)
-
+![IMG-20171002-WA0002](https://user-images.githubusercontent.com/52366240/186396763-c32c636f-e441-4183-b188-09c142c8a7ea.jpg)
 <p align="center">Daily Facts is a simple application that is used to find out interesting facts today. Built using Framework7. 💖 </p>
 
 <p align="center">
